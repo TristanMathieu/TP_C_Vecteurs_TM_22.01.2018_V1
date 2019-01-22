@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1548149528 source:d:\users\admin\documents\projects_codeblocks\vecteurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	"vecteur.h"
+
+1548150458 d:\users\admin\documents\projects_codeblocks\vecteurs\point.h
+
+1548150863 d:\users\admin\documents\projects_codeblocks\vecteurs\vecteur.h
+	"point.h"
+
+1548150973 source:d:\users\admin\documents\projects_codeblocks\vecteurs\vecteur.c
+	<stdio.h>
+	"vecteur.h"
+
